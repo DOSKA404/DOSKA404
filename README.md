@@ -1,5 +1,9 @@
 ### Hello there 👋
 
+
+
+## hi, im just a junior french dev who start to learn code and this is the few tools and languages am using
+
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -10,9 +14,5 @@
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![k8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## hi, im just a junior french dev who start to learn code and this is the few tools and languages am using
-
-now i'm just gonna take some ☕ and go code...
 
 ![stat](https://github-profile-trophy.vercel.app/?username=DOSKA404&theme=dracula)
