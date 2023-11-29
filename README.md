@@ -11,3 +11,5 @@
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## hi, im just a junior french dev who start to learn code and this is the few tools and languages am using
+
+![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={DOSKA404}&theme={tokyonight})
