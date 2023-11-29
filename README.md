@@ -12,4 +12,4 @@
 
 ## hi, im just a junior french dev who start to learn code and this is the few tools and languages am using
 
-![stat]([https://github-profile-trophy.vercel.app/?username={DOSKA404}&theme={tokyonight}](https://github-profile-trophy.vercel.app/?username=DOSKA404&theme=dracula)https://github-profile-trophy.vercel.app/?username=DOSKA404&theme=dracula)
+![stat](https://github-profile-trophy.vercel.app/?username=DOSKA404&theme=dracula)
