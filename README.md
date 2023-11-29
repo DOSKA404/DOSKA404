@@ -12,4 +12,6 @@
 
 ## hi, im just a junior french dev who start to learn code and this is the few tools and languages am using
 
+now i'm just gonna take some ☕ and go code...
+
 ![stat](https://github-profile-trophy.vercel.app/?username=DOSKA404&theme=dracula)
